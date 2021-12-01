@@ -2,11 +2,14 @@
 파일 공유 프로그램
 
 ## 팀원
-곽영주<br>
-양현규<br>
-박종건<br>
+곽영주-sss<br>
+양현규=dddd<br>
+박종건=ffffff<br>
 
 ## 설명
+sdfgsdfgsdfgsdfg
+sdfgsdfgsdfgs
+sdfgsdfgsdfgsdfgs
 
 ## 파일 구조
 &nbsp;**.**<br>
